@@ -8,7 +8,8 @@ public class TravelDestination {
 				System.out.println("My name is Garreth Shonaike. I wish to travel to Seoul one day!");
 				System.out.println("My name is Sabrina Ramon. I wish to travel to Japan one day!");
 				System.out.println("My name is Gia German. I wish to travel to Italy one day!");
-				System.out.println("My name is Kaleb Galvan. I wish to travel to Australia one day!");		   
+				System.out.println("My name is Kaleb Galvan. I wish to travel to Australia one day!");
+				System.out.println("My name is Aldo Martinez. I wish to travel to Rome, Italy one day!");
 	}
 
 }
